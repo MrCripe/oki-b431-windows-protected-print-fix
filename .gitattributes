@@ -1,0 +1,5 @@
+# Текстовые файлы — LF, чтобы скрипт одинаково читался на Windows и в Linux.
+* text=auto eol=lf
+
+*.ps1 text eol=lf
+*.md  text eol=lf
